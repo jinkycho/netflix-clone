@@ -1,0 +1,67 @@
+.detail-container .detail-top {
+  position: relative;
+}
+
+.detail-container .detail-top h1 {
+  position: absolute;
+  left: 5%;
+  bottom: 25%;
+  background: rgba(0, 0, 0, 0.4);
+  color: #fff;
+  padding: 1%;
+  font-size: 60px;
+}
+
+.detail-container .detail-top .buttons {
+  position: absolute;
+  left: 5%;
+  bottom: 15%;
+}
+
+.detail-container .detail-top .buttons .play-btn {
+  border-radius: 4px;
+  width: 100px;
+  background-color: #fff;
+  color: #333 !important;
+  margin-right: 1.5%;
+}
+
+.detail-container .detail-top .buttons .play-btn:hover {
+  background-color: #ddd;
+}
+
+.detail-container .detail-top img {
+  max-width: 100%;
+  padding-bottom: 5%;
+}
+
+.detail-container .detail-common {
+  padding: 0 4%;
+}
+
+.detail-container .detail-middle {
+  padding: 5% 5% 0;
+  width: 90%;
+  margin: auto;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.detail-container .detail-middle h2 {
+  color: #fff;
+  padding: 0;
+}
+
+.detail-container .detail-middle p {
+  font-size: 14px;
+  color: #d2d2d2;
+  padding: 0;
+  margin-bottom: 6%;
+}
+
+.detail-container .detail-bottom {
+  padding: 5%;
+}
+
+.detail-container .detail-bottom h2 {
+  color: #fff;
+}

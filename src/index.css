@@ -1,0 +1,121 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #141414 !important;
+  font-size: 16px;
+  height: 100%;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.primary-btn {
+  border-radius: 4px;
+  color: #fff !important;
+  border: none;
+  font-weight: bold;
+}
+
+/* 버튼 */
+.buttons {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  position: relative;
+}
+
+.buttons li {
+  padding: 0;
+  text-align: center;
+}
+
+.buttons li a {
+  display: block;
+}
+
+.buttons li .small-btn {
+  color: #ccc;
+  width: 37px;
+  line-height: 33px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 2px solid #ccc;
+  border-radius: 100%;
+  padding: 0;
+  margin: 4px 5px;
+}
+
+.buttons li .play-btn {
+  background-color: #fff;
+  border-color: #fff;
+  color: #333 !important;
+}
+
+.buttons li .play-btn:hover {
+  border-color: #d5d5d5;
+  background-color: #d5d5d5;
+}
+
+.buttons li button.modal-btn {
+  position: absolute;
+  right: 0;
+}
+
+.buttons button.active {
+  color: #333 !important;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.buttons li button:hover {
+  color: #fff;
+  border-color: #fff;
+}
+
+button.video-add {
+  display: block;
+  float: right;
+  background-color: #2f2f2f;
+  border: 2px solid #ccc;
+  border-radius: 100%;
+  padding: 0;
+  width: 37px;
+  line-height: 33px;
+}
+
+button.video-add:hover {
+  border-color: #fff;
+}
+
+.btn-icon {
+  margin-right: 10%;
+}
+
+.banner-btns {
+  display: flex;
+}
+
+.play-btn {
+  width: 6rem;
+  background-color: #fff;
+  color: #333 !important;
+  margin-right: 1.5%;
+  line-height: 40px;
+  text-align: center;
+}
+
+.detail-btn {
+  width: 135px;
+  background-color: rgba(109, 109, 110, 0.7);
+  color: #fff;
+}

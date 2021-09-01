@@ -1,0 +1,31 @@
+.main-container .banner {
+  height: 500px;
+  overflow: hidden;
+  background-size: 100% !important;
+  position: relative;
+}
+
+.main-container .banner .banner-content {
+  width: 50%;
+  position: absolute;
+  left: 4%;
+  bottom: 16%;
+  color: #fff;
+}
+
+.main-container .banner .banner-content h1 {
+  font-size: 3rem;
+  line-height: 3rem;
+  color: #fff;
+}
+
+.main-container .banner .banner-content p {
+  margin-bottom: 3rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: normal;
+  word-break: keep-all;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
