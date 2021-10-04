@@ -1,9 +1,35 @@
-# netflix-clone
+# 넷플릭스 클론
 
-This is netflix-clone for my personal portfolio. 
-You can see the demo website via https://netflix-clone-b0f00.web.app/
+UI/UX가 잘 구성된 사이트인 넷플릭스를 클론코딩하여 사용하기 편리한 사이트를 분석했습니다.
+React를 통해 사용자의 action을 
 
-I followed this below tutorial when I built this project and added more functions to make similar to the current Netflix webstie.
-https://www.youtube.com/watch?v=XtMThy8QKqU&list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP&index=4
+# 개발상태
+개발 완료
 
-Thanks!
+# Tech/Library
+**Frontend**
+
+```
+- HTML
+- CSS
+- Javascript
+- React
+```
+**Deployment**
+firebase
+
+# 데모사이트
+[데모사이트 보러가기](https://netflix-clone-b0f00.web.app/)
+
+# 설치
+
+```
+npm install
+```
+
+
+
+
+
+
+
