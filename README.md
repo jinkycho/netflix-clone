@@ -7,6 +7,10 @@
 # 개발상태
 개발 완료
 
+# 화면구성
+![netflix_clone_images](https://user-images.githubusercontent.com/75877789/135954943-852f22e9-0668-433c-9db1-304687a6ea2c.jpg)
+
+
 # Tech/Library
 **Frontend**
 
